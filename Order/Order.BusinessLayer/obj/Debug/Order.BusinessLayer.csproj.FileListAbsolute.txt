@@ -1,0 +1,14 @@
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\NLog.config
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Common.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.DataLayer.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Model.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\NLog.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Common.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.DataLayer.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Model.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\NLog.xml
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.pdb

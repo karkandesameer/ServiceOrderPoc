@@ -1,0 +1,1 @@
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order\obj\x64\Debug\Order.sfprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\WebTest1.webtest
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Order.LoadTest.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Order.LoadTest.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\obj\Debug\Order.LoadTest.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\obj\Debug\Order.LoadTest.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.LoadTest\obj\Debug\Order.LoadTest.csprojResolveAssemblyReference.cache

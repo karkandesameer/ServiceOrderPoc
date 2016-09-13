@@ -1,0 +1,10 @@
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Model.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Model.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\obj\Debug\Order.Model.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\obj\Debug\Order.Model.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\NLog.config
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Common.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\NLog.dll
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Common.pdb
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\bin\Debug\NLog.xml
+C:\JCI\Microservices-GitRepository\MICROSERVICES\POC\Order\Order.Model\obj\Debug\Order.Model.csprojResolveAssemblyReference.cache

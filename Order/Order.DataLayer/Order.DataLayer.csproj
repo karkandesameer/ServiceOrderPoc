@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48685DE1-24F8-4564-BFFD-1A3A1A5B6781}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Order.DataLayer</RootNamespace>
+    <AssemblyName>Order.DataLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Entities\bin\Debug\DenodoAdapter.dll" />
+    <Content Include="Entities\bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="Entities\bin\Debug\NLog.dll" />
+    <Content Include="Entities\bin\Debug\NLog.xml" />
+    <Content Include="Entities\bin\Debug\Order.Common.dll" />
+    <Content Include="Entities\bin\Debug\Rhino.Mocks.dll" />
+    <Content Include="Entities\bin\Debug\Rhino.Mocks.xml" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.dll" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.Extensions.dll" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.Formatting.dll" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.Primitives.dll" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.WebRequest.dll" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.WebRequest.xml" />
+    <Content Include="Entities\bin\Debug\System.Net.Http.xml" />
+    <Content Include="Entities\bin\Debug\System.Web.Http.dll" />
+    <Content Include="Entities\bin\Debug\System.Web.Http.xml" />
+    <Content Include="Interfaces\bin\Debug\CustomerInformation.Common.dll" />
+    <Content Include="Interfaces\bin\Debug\CustomerInformation.Common.pdb" />
+    <Content Include="Interfaces\bin\Debug\CustomerInformation.DataLayer.dll" />
+    <Content Include="Interfaces\bin\Debug\CustomerInformation.DataLayer.pdb" />
+    <Content Include="Interfaces\bin\Debug\DenodoAdapter.dll" />
+    <Content Include="Interfaces\bin\Debug\DenodoAdapter.pdb" />
+    <Content Include="Interfaces\bin\Debug\Newtonsoft.Json.dll" />
+    <Content Include="Interfaces\bin\Debug\NLog.dll" />
+    <Content Include="Interfaces\bin\Debug\NLog.xml" />
+    <Content Include="Interfaces\bin\Debug\Order.DataLayer.dll" />
+    <Content Include="Interfaces\bin\Debug\Order.DataLayer.pdb" />
+    <Content Include="Interfaces\bin\Debug\Rhino.Mocks.dll" />
+    <Content Include="Interfaces\bin\Debug\Rhino.Mocks.xml" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.dll" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.Extensions.dll" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.Formatting.dll" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.Primitives.dll" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.WebRequest.dll" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.WebRequest.xml" />
+    <Content Include="Interfaces\bin\Debug\System.Net.Http.xml" />
+    <Content Include="Interfaces\bin\Debug\System.Web.Http.dll" />
+    <Content Include="Interfaces\bin\Debug\System.Web.Http.xml" />
+    <Content Include="Interfaces\obj\Debug\CustomerInformation.DataLayer.csproj.FileListAbsolute.txt" />
+    <Content Include="Interfaces\obj\Debug\CustomerInformation.DataLayer.dll" />
+    <Content Include="Interfaces\obj\Debug\CustomerInformation.DataLayer.pdb" />
+    <Content Include="Interfaces\obj\Debug\Order.DataLayer.csproj.FileListAbsolute.txt" />
+    <Content Include="Interfaces\obj\Debug\Order.DataLayer.dll" />
+    <Content Include="Interfaces\obj\Debug\Order.DataLayer.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Entities\bin\Debug\NLog.config" />
+    <None Include="Entities\bin\Debug\NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Interfaces\bin\Debug\NLog.config" />
+    <None Include="Interfaces\bin\Debug\NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Interfaces\obj\Debug\CustomerInformation.DataLayer.csprojResolveAssemblyReference.cache" />
+    <None Include="Interfaces\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Interfaces\obj\Debug\Order.DataLayer.csprojResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\bin\Release\" />
+    <Folder Include="Interfaces\obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Order.Common\Order.Common.csproj">
+      <Project>{ca14e25c-4763-402c-b7e8-07557dafe6e3}</Project>
+      <Name>Order.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
